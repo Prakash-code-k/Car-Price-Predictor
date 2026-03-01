@@ -1,5 +1,7 @@
 # Car Price Prediction System
 
+**Live App:** https://car-price-predictor-cl9kwcrxtnvzvkhsnxq6ev.streamlit.app/
+
 A machine learning–based web application that predicts the selling price of used cars using historical data and user inputs. The application is built using Python, Scikit-learn, and Streamlit.
 
 ## Project Overview
@@ -86,3 +88,4 @@ Car-Price-Predictor/
 - Enter car details such as year, fuel type, transmission, and kilometers driven...
 - Click on Predict
 - The predicted selling price will be displayed instantly
+
